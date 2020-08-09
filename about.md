@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+My name is Mana Azizsoltani and I am a 20-year-old from Las Vegas, Nevada. I am currently attending North Carolina State University for my master's degree in statistics. I have always considered myself an "undercover nerd", but in the recent years I have really embraced my nerdiness.
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+Some of my hobbies include travel, soccer, and music (listening, not production).  
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[mazizso@ncsu.edu](mailto:mazizso@ncsu.edu)
