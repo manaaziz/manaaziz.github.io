@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-![](https://raw.githubusercontent.com/manaaziz/manaaziz.github.io/master/images/Headshotpng.png)  
+![](https://raw.githubusercontent.com/manaaziz/manaaziz.github.io/master/images/Headshotpngs.png)  
 
 My name is Mana Azizsoltani and I am currently attending North Carolina State University for my master's degree in statistics. I have always considered myself an *undercover nerd*, but in the recent years I have really embraced my nerdiness.  
 
