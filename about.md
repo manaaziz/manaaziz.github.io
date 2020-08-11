@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-![](/Users/mana010/Library/Mobile Documents/com~apple~CloudDocs/Documents/Important/Headshotpng.png)  
+![](/Users/mana010/Downloads/Headshotpng.png)  
 
 My name is Mana Azizsoltani and I am currently attending North Carolina State University for my master's degree in statistics. I have always considered myself an "undercover nerd", but in the recent years I have really embraced my nerdiness.  
 
