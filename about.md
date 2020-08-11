@@ -11,7 +11,7 @@ My name is Mana Azizsoltani and I am currently attending North Carolina State Un
 Here are two truths and a lie about me. Can you guess which is the lie?  
 * I have a 2 year old daughter  
 * I am 20 years old  
-* I have been to 25 states    
+* I have been to 27 states    
 
 ### More Information
 
