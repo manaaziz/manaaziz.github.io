@@ -20,3 +20,4 @@ Some of my hobbies include travel, soccer, and listening to music.
 ### Contact me
 
 [mazizso@ncsu.edu](mailto:mazizso@ncsu.edu)
+
